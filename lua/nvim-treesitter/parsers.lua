@@ -1740,9 +1740,9 @@ list.ron = {
 
 list.rst = {
   install_info = {
-    url = "https://github.com/SilverRainZ/tree-sitter-rst2",
+    url = "https://github.com/SilverRainZ/tree-sitter-rst",
     files = { "src/parser.c", "src/scanner.c" },
-    branch = 'bugfix/non-ascii-punct2',
+    branch = 'non-ascii-punct4',
   },
   maintainers = { "@SilverRainZ" },
 }
