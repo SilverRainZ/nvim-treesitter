@@ -1740,10 +1740,11 @@ list.ron = {
 
 list.rst = {
   install_info = {
-    url = "https://github.com/stsewd/tree-sitter-rst",
+    url = "https://github.com/SilverRainZ/tree-sitter-rst",
     files = { "src/parser.c", "src/scanner.c" },
+    branch = 'bugfix/non-ascii-punct2',
   },
-  maintainers = { "@stsewd" },
+  maintainers = { "@SilverRainZ" },
 }
 
 list.ruby = {
