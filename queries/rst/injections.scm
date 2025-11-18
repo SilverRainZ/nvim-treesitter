@@ -30,7 +30,7 @@
   (#set! injection.language "rst")
   (#any-of? @_type
     "figure" "topic" "sidebar" "container" "table" "list-table" "class" "role"
-    "restructuredtext-test-directive"))
+    "restructuredtext-test-directive" "only"))
 
 ; Special directives
 ((directive
